@@ -1,1 +1,2 @@
 Este archivo es para generar acciones dentro de git para la actividad asociada
+Se ha generado un cambio en el archivo desde GitHub para realizar un Pull
